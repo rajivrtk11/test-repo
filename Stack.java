@@ -49,6 +49,6 @@ class Stack {
             ansArr[i] = st.pop();
         }
 
-        return ansArr;
+        
     }
 }
